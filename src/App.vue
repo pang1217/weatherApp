@@ -17,7 +17,7 @@ export default {
     return {
       city: 'Bangkok', // set default to bangkok
       weather: null,
-      apiKey: '__MY_API_KEY__', 
+      apiKey: '0a2562ad2ae7917e583b23619009f844', 
     };
   },
   methods: {
