@@ -2,6 +2,8 @@
 My Weather App with Vue.js using OpenWeatherMap API
 This weather application is built using Vue.js and leverages the OpenWeatherMap API to fetch weather data. Users can search for weather information by city, with the app displaying current conditions, temperature, humidity, and wind speed. 
 
+Link : [text](https://weather-app-mu-seven-41.vercel.app)
+
 ## Screenshot
 ![Weather App Screenshot](./screenshot.png)
 
